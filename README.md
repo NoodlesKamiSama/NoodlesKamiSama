@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently a **Lead QA Engineer** at MileIQ, driving quality from ideation to release 🚀  
+- 🔭 I’m currently a **Senior QA Engineer** at Beautiful.ai, driving quality from ideation to release 🚀  
 - 🧪 Passionate about **Test Automation**, **AI-powered QA Agents**, and shifting-left strategies  
 - 🛠️ Built robust automation frameworks from scratch using **Cypress**, **Playwright**, **Selenium**, and **Appium**  
 - 🤖 Created **LangChain/LangGraph-based RAG QA Agents** that automatically review PRs and flag test gaps  
